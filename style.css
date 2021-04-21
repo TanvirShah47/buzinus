@@ -1,0 +1,11 @@
+.contain{
+    background: url("https://thumbs.dreamstime.com/b/tourist-man-sitting-cliff-sunset-background-160842259.jpg");
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center;  
+}
+
